@@ -1,0 +1,23 @@
+<h1> thẻ mở
+</h1> thẻ đóng
+
+trên trình duyệt hỗ trợ một tool (công cụ) giúp chúng ta trong quá trình phát triển phần mềm (chorn dev tool)
+
+html gồm 2 thẻ quan trọng
++ inline (nội tuyến)
++ block (khối)
+ + diện tích sẽ chiếm 100% chiều dài màn hình hoặc phạm vi mà nó chiếm
+ + phần nội dung sẽ phụ thuộc vào nội dung của thẻ
+ + các thẻ sẽ được sắp xếp theo chiều dọc
+
+từ h1 đến h6 là các thẻ liên quan đến tiêu đề của trang web
+ + trong một trang thì nên chỉ có 1 đến 2 thẻ h1
+ + hay dùng để xác định nội dung chính của trang đó
+
+ # li*10 + ctrl (tạo 10 thẻ li)
+ # ctrl + alt + mũi tên xuống => chọn nhiều thẻ
+ # gõ lorem tự tạo văn bản mẫu
+- cách để chuyển một thẻ từ thẻ inline thành thẻ block và ngược lại 
+ + cách một: bọc một hoặc nhiều thẻ block ở ngoài thẻ inline. tuy nhiên diện tích của thẻ inline đó không bị thay đổi
+ + cách 2: trong thuộc tính style của thẻ sử dụng display = "block" 
+tạo web vercel.com
